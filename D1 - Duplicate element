@@ -1,11 +1,4 @@
-```
-//problem link :
-//"https://leetcode.com/problems/find-the-duplicate-number/"
-
-//ALGORITHM: HARE TORTOISE ALGO
-
-//CODE:
-
+```cpp
 
 class Solution {
 public:
@@ -33,4 +26,5 @@ public:
         
     }
 };
+
 ```
