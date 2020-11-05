@@ -35,11 +35,13 @@ public:
         }
     }
 };
+```
 
-code-2
-Dutch National Flag Algorithm:
-O(N)
-O(1)
+```
+//code-2
+//Dutch National Flag Algorithm:
+//O(N)
+//O(1)
 
 class Solution {
 public:
