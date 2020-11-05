@@ -1,8 +1,10 @@
-Problem link : https://leetcode.com/problems/sort-colors
 
-code -1
+```cpp
+//Problem link : https://leetcode.com/problems/sort-colors
 
-O(2N) TIME, O(1) SPACE    (COUNT SORT)
+//code -1
+
+//O(2N) TIME, O(1) SPACE    (COUNT SORT)
 
 class Solution {
 public:
@@ -67,5 +69,5 @@ public:
         
     }
 };
-
+```
 
