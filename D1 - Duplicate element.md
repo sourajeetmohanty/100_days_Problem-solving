@@ -1,10 +1,12 @@
+
+```cpp
 //problem link :
 //"https://leetcode.com/problems/find-the-duplicate-number/"
 
 //ALGORITHM: HARE TORTOISE ALGO
 
 //CODE:
-```
+
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
