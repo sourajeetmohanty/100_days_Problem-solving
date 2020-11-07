@@ -1,4 +1,4 @@
-```
+```CPP
 //problem link:https://www.geeksforgeeks.org/efficiently-merging-two-sorted-arrays-with-o1-extra-space/
 
 //CODE-1:
