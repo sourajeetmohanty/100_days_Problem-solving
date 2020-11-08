@@ -40,7 +40,7 @@ cout<<ans[i]<<" ";
 return 0;
 }
 ```
-```
+```cpp
 //CODE 2:
 //TIME:O(N1*LOGN2)
 //SPACE : O(1)
