@@ -27,10 +27,36 @@ public:
     }
 };
 ```
+```cpp
+
+\\CODE 1: BRUTE FORCE 2
+\\TIME O(N^2), SPACE O(1)
+
+class Solution {
+public:
+    int maxSubArray(vector<int>& nums) {
+        int maxg=INT_MIN,sum=0;
+        if(nums.size()==1)
+            return nums[0];
+        int n=nums.size();
+        for(int i=0;i<n;i++)
+        {  sum=0;
+            for(int j=i;j<n;j++)
+            {   sum=sum+nums[j];
+                maxg=max(maxg,sum);
+               
+            }
+           
+                
+        }
+        return maxg;
+    }
+};
+```
 
 
 
-```cppp
+```cpp
 
 
 \\CODE 3: KADANES ALGORITHM
