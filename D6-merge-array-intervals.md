@@ -1,4 +1,4 @@
-
+```
 \\problem link: https://leetcode.com/problems/merge-intervals/
 \\CODE : 1 
 \\ O(NLOGN + N ) 
@@ -36,3 +36,4 @@ public:
         return ans;
     }
 };
+```
