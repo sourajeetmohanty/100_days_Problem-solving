@@ -1,4 +1,4 @@
-```
+```cpp
 problem link: https://leetcode.com/problems/pascals-triangle/
 
 \\CODE: 
