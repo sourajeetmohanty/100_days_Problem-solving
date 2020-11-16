@@ -1,4 +1,4 @@
-```
+```cpp
 \\problem link:  https://www.geeksforgeeks.org/determine-string-unique-characters/
 \\CODE 1:
 \\  O(N) TIME, NO EXTRA DATA STRUCTURE NEEDED
