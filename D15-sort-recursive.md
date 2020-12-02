@@ -1,17 +1,8 @@
-```
-/*
-emplace_back();
+```cpp
 
-Author: Sourajeet Mohanty
-DEVCPP
-NO endl only '/n'
-*/
 #include<bits/stdc++.h>
 using namespace std;
-/*
-vector<int> arr[100001];
-int vis[100001];
-*/
+
 void insert(vector<int> &a,int last)
 {
 	if(a.size()==0 || a[a.size()-1]<=last)
