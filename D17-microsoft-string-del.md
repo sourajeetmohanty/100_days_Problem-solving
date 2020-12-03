@@ -1,5 +1,6 @@
+
+[problem link](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 ```cpp
-\\[problem link](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 class Solution {
 public:
     int minDeletions(string s) {
